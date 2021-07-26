@@ -12,3 +12,5 @@ The following sections are for developers
 - [Internal Details](details.md)
 - [Android Booting Shenanigans](boot.md)
 - [Deployment](deploy.md)
+- [Deployment](deploy.md)
+- [Deployment](deploy.md)哼唧唧
